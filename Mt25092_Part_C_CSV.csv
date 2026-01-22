@@ -1,0 +1,7 @@
+Program,Worker,CPU_Percent,Disk_TPS,Time_Seconds
+A,cpu,100,0.44,10.61
+A,mem,99,0.44,34.17
+A,io,5,0.44,5.22
+B,cpu,99,0.43,9.50
+B,mem,100,0.43,33.37
+B,io,5,0.63,4.71
