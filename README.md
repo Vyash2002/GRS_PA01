@@ -97,3 +97,35 @@ To compile both programs:
 
 ```bash
 make
+
+## To clean binaries:
+
+make clean
+
+
+This generates:
+
+programA
+
+programB
+
+## ▶️ Running Programs Manually
+Program A (Processes)
+./programA cpu 2
+./programA mem 2
+./programA io 2
+
+
+## Format:
+
+./programA <cpu|mem|io> <num_processes>
+
+Program B (Threads)
+./programB cpu 2
+./programB mem 2
+./programB io 2
+
+
+Format:
+
+./programB <cpu|mem|io> <num_threads>
