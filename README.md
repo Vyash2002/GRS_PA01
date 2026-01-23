@@ -109,14 +109,14 @@ programA
 
 programB
 
-## ▶️ Running Programs Manually
+▶️ Running Programs Manually
 Program A (Processes)
 ./programA cpu 2
 ./programA mem 2
 ./programA io 2
 
 
-## Format:
+Format:
 
 ./programA <cpu|mem|io> <num_processes>
 
